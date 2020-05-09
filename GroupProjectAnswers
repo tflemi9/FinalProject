@@ -1,0 +1,5 @@
+The effect the overall frequencies in phenotype seems consistent. Within the simulations we noticed that each population remained basically intact as far as phenotype frequencies throughout the weeks. There was some movement of 1 or 2 individuals into another population shown by the loss of some individuals
+The overall increased in the rate of movement changes the overall population as time progresses 
+When the movement probabilities are not symmetric in both phenotype frequencies and populations sizes, they will both have more individuals going in populations and less individuals going out populations, therefore, populations sizes will unequal
+Changing the starting population sizes will cause the trajectory of phenotype frequencies to be unequal for different amounts of time. When you have larger population sizes, there’s more movement of individuals so theirs an unequal number of phenotypes for a longer time. The opposite will happen for smaller population sizes
+
